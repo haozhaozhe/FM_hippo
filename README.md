@@ -1,1 +1,1 @@
-# Code for Hippocampus project
+Code for Hippocampus project
