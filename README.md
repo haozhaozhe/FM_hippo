@@ -2,7 +2,7 @@
 
 ## Paper
 ### Single-cell transcriptomics of adult macaque hippocampus reveals neural precursor cell populations.
-Zhao-Zhe Hao1, Jia-Ru Wei1, Dongchang Xiao1, Ruifeng Liu, Nana Xu, Lei Tang1, Mengyao Huang, Yuhui Shen, Changsheng Xing, Wanjing Huang, Xialin Liu, Mengqing Xiang*, Yizhi Liu*, Zhichao Miao*, Sheng Liu* 
+Zhao-Zhe Hao1, Jia-Ru Wei1, Dongchang Xiao1, Ruifeng Liu, Nana Xu, Lei Tang, Mengyao Huang, Yuhui Shen, Changsheng Xing, Wanjing Huang, Xialin Liu, Mengqing Xiang*, Yizhi Liu*, Zhichao Miao*, Sheng Liu* 
 
 Nature Neuroscience: https://www.nature.com/articles/s41593-022-01073-x
 
