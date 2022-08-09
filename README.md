@@ -22,4 +22,4 @@ E-MTAB-10225 (Macaque Hippocampus dataset)
 
 E-MTAB-10236 (Neurosphere dataset).
 
-The raw sequencing files are available based upon reasonable request, due to the large size of the files.
+The raw sequencing files (fastq) are public available with the same accession numbers.
